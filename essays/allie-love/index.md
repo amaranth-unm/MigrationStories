@@ -21,9 +21,9 @@ summary: "One sentence that tells readers what your family's migration story is 
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
-lead-image: images/placeholder.svg
-lead-image-alt: "Short description of the image for screen readers"
-lead-image-caption: "What the image shows, who is in it, and the source. Example: Maria and Jose Lopez outside their first apartment, Chicago, 1968. Courtesy of the Lopez family."
+lead-image: images/road-runner.jpg
+lead-image-alt: "A picture of a road runner bird"
+lead-image-caption: "This is a picture of a road runner from Wikimedia Commons"
 
 # To hide an unfinished essay from the home page, remove the # in front of the next line
 # draft: true
