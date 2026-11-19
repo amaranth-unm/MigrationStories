@@ -65,8 +65,8 @@ This section draws upon secondary sources and class materials to explain how the
 {% endcomment %}
 
 {% include essay/audio.html
-  file="audio/sample-clip.wav"
-  caption="10-25 words: who is speaking, what they describe, and a citation. Interview by Your Name, City, Month Day, Year."
+  file="audio/chopin-nocturne.mp3"
+  caption="Chopin's Nocturne in E Flat Major."
 %}
 
 Use a sentence or two to introduce the clip and explain why you chose it.
