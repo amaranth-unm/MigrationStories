@@ -21,9 +21,9 @@ summary: "One sentence that tells readers what your family's migration story is 
 
 # Main image: a photograph or object that introduces your family migration story.
 # Upload your image into the "images" folder next to this file, then type its file name below.
-lead-image: images/road-runner.jpg
-lead-image-alt: "A picture of a road runner bird"
-lead-image-caption: "This is a picture of a road runner from Wikimedia Commons"
+lead-image: images/placeholder.svg
+lead-image-alt: "Short description of the image for screen readers"
+lead-image-caption: "What the image shows, who is in it, and the source. Example: Maria and Jose Lopez outside their first apartment, Chicago, 1968. Courtesy of the Lopez family."
 
 # To hide an unfinished essay from the home page, remove the # in front of the next line
 # draft: true
@@ -77,9 +77,9 @@ This sample paragraph describes the journey as a whole. Draw upon your oral hist
 ## Subheader 3:  Meaningful object, song, food 
 
  {% include essay/figure.html
-  image="images/maple-tree.jpg"
+  image="/essays/template/images/placeholder.svg"
   alt="Placeholder for a photograph of an important object or place"
-  caption="This is a picture of a maple tree."
+  caption="Sample placeholder. Describe what the image shows, why it matters to the story, and where it came from."
 %}
 
  This section describes a particular object, song, recipe, or tradition that is significant for your family migration story. Describe this item using language that evokes touch, smell, sound, sight. Describe any emotions it inspires for your family relating to the migraiton experience -- what was left behind, the journey itself, building a new life, creating new conmmunity? How does this evoke the meaning your family attaches to their migraiton story? If you cite any class materials or seconary sources, be sure to use Chicago author-date style (author last name, year of publication) with complete citation listed in References section below. 
