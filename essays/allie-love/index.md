@@ -45,7 +45,7 @@ lead-image-caption: "Picture of a bird."
   ============================================================
 {% endcomment %}
 
-TThis is my essay. Blah blah blah.  
+This is my essay. Blah blah blah.  
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
